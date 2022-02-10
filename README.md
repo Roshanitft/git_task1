@@ -1,2 +1,5 @@
 # git_task1
-It is my first repo.
+
+USER-NAME:-  Roshani Lalwani
+
+EMAIL:- lalwani.roshani@tftus.com
